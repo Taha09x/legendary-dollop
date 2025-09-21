@@ -1,0 +1,27 @@
+body {
+    background-color: black;  /* Arka plan siyah */
+    color: white;             /* Yazı rengi beyaz */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+}
+.sosyal-medya {
+    margin-top: 40px;
+}
+
+.sosyal-medya a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.sosyal-medya a:hover {
+    background-color: #ff0080; /* üzerine gelince rengi değişir */
+    color: white;
+}

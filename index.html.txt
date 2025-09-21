@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Benim İlk Sitem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>!Taha BABA!</h1>
+    <p>09Taha.</p>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Benim İlk Sitem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>!Taha BABA!</h1>
+    <p>09Taha.</p>
+
+    <!-- Sosyal Medya Linkleri -->
+    <div class="sosyal-medya">
+        <h2>Beni Takip Et:</h2>
+        <a href="https://instagram.com/09xtaha" target="_blank">Instagram</a>
+        <a href="https://youtube.com/@09Taha" target="_blank">YouTube</a>
+        <a href="https://tiktok.com/@09_taha" target="_blank">TikTok</a>
+    </div>
+</body>
+</html>
+
